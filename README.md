@@ -3,6 +3,8 @@ A port of Minecraft PS4 Edition's new textures to Wii U Edition.
 
 This mod replaces the terrain.png (and mipmap files) and items.png files in the Wii U Edition's files with the new textures, taken from PS4 Edition's files. Mobs, icons, etc. aren't changed from the original.
 
+![image](https://github.com/mjdxp/minecraft-wiiu-1.14-textures/assets/71859271/f79e6387-36bc-43c5-9b92-533c822d094f)
+
 Installation instructions:
 1. Install SDCafiine to your Aroma plugins folder: https://github.com/wiiu-env/sdcafiine_plugin
 2. Copy the `wiiu` folder to the root of your SD card. If asked, merge the folders.
